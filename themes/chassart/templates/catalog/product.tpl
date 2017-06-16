@@ -154,11 +154,6 @@
                     </a>
                   </li>
                   {/if}
-                  <li class="nav-item">
-                    <a class="nav-link{if !$product.description} active{/if}" data-toggle="tab" href="#product-details">
-                      {l s='Product Details' d='Shop.Theme.Catalog'}
-                    </a>
-                  </li>
                   {if $product.attachments}
                   <li class="nav-item">
                     <a class="nav-link" data-toggle="tab" href="#attachments">

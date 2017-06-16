@@ -224,7 +224,7 @@
 }
 /*** FOOTER ***/
 #footer {
-  padding-top: rem(40px);
+  padding-top: rem(1px);
 }
 /*** Responsive part ***/
 @include media-breakpoint-down(sm) {
@@ -307,7 +307,7 @@
     padding-left: 0;
   }
   #footer {
-    padding-top: rem(8px);
+    padding-top: rem(1px);
   }
 }
 @include media-breakpoint-down(md) {
