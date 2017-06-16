@@ -39,6 +39,7 @@
             <div class="col-md-8 right-nav">
                 {hook h='displayNav2'}
             </div>
+
           </div>
           <div class="hidden-md-up text-xs-center mobile">
             <div class="pull-xs-left" id="menu-icon">
